@@ -651,13 +651,14 @@ dt {
 }
 
 header {
+  border: 5px solid black;
   padding: 25px 20px 40px 20px;
-  margin: 0;
+  margin: 10px;
   position: fixed;
   top: 0;
-  left: 0;
-  right: 0;
-  width: 100%;
+  left: 30px;
+  right: 30px;
+  width: 80%;
   text-align: center;
   background: url(../images/background.png) #4276b6;
   -moz-box-shadow: 1px 0px 2px rgba(0, 0, 0, 0.75);
